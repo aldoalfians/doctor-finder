@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Filter from "../../components/Filter";
 import Card from "../../components/Card";
-import { Col, Row } from "antd";
+import { Row } from "antd";
 import axios from "axios";
 import Constant from "../../utils/constant";
 
