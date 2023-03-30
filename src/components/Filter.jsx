@@ -26,6 +26,7 @@ export default function Filter({
   };
 
   const onChangeHospital = (value) => {
+    console.log(value);
     setHospitalId(value);
   };
 
